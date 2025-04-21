@@ -66,7 +66,7 @@ public class headDeletionDLL {
             if(count==k)break;
             temp=temp.next;
         }
-
+//check
         Node prev=temp.back;
         Node font=temp.next;
 
